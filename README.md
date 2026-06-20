@@ -8,5 +8,5 @@ Site-to-site VPN using IPsec for secure communication
 Zone-Based Firewall (ZBF) configuration for traffic control
 Access Control Lists (ACLs) for filtering and policy enforcement
 Secure device management using SSH
-Network monitoring and logging using Syslog and NTP 
+Network monitoring and logging using Syslog and NTP  
 
